@@ -1,5 +1,8 @@
 _repo: La-duchesse-bleue_54002
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 54002-h/images/cover.jpg
 creator:
   author:
     agent_name: Bourget, Paul
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1346
     wikipedia: http://en.wikipedia.org/wiki/Paul_Bourget
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54002#La-duchesse-bleue
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2017-01-18'
 gutenberg_type: Text
